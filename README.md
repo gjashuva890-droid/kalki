@@ -1,2 +1,0 @@
-# kalki
-image
